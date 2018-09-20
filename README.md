@@ -51,7 +51,7 @@
 
 9. 点击右下角`New profile`，Profile name命名为`Shadowsock`
 
-![](/images/12.png)
+![](/images/11.png)
 
 10. 填写如下配置
 
@@ -59,9 +59,9 @@
 
 11. 点击左下角`AutoProxy`，按照下图填写配置，Rule List URL为：`https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`
 
-![](/images/11.png)
+![](/images/12.png)
 
-12. 关闭页面，左键点击右上角的图标，选择`AutoProxy`。OK全部完成，可以畅游网络了。
+12. 点击右下角`Apply changes`，关闭页面，左键点击右上角的图标，选择`AutoProxy`。OK全部完成，可以畅游网络了。
 
 ## MacOS
 
