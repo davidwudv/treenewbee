@@ -26,7 +26,42 @@
 
 ## Windows
 
-待补充
+1. 此处下载[Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)最新版（选择latest release那份）
+
+![](/images/7.png)
+
+2. 直接解压打开`Shadowsocks.exe`，右下角会出现`纸飞机`图标
+
+![](/images/8.png)
+
+3. 右键点击`纸飞机`图标，选择`Servers`-->`Edit Servers`，然后点击左下角`Add`添加配置，像手机一样配置好服务器IP地址、端口、密码、还有加密算法即可。
+![](/images/9.png)
+
+4. 继续右键点击`纸飞机`图标，点击`Enable System Proxy`，并且选择`Mode`-->`PAC`，然后就可以畅游网络了。
+
+5. 以下步骤是可选的，如果想要更好的体验，那么建议继续往下走
+
+6. （若已安装Chrome，直接跳到第七步）上述步骤完成后，选择`Mode`-->`Global`，打开[https://www.google.com/chrome/](https://www.google.com/chrome/)，下载安装Chrome浏览器。安装完成之后再把设置改回`Mode`-->`PAC`
+
+7. 打开[Chrome Store](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，安装`Proxy SwitchyOmega`插件。
+
+8. 右键击此图标，选择`Options`
+
+![](/images/10.png)
+
+9. 点击右下角`New profile`，Profile name命名为`Shadowsock`
+
+![](/images/12.png)
+
+10. 填写如下配置
+
+![](/images/13.png)
+
+11. 点击左下角`AutoProxy`，按照下图填写配置，Rule List URL为：`https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`
+
+![](/images/11.png)
+
+12. 关闭页面，左键点击右上角的图标，选择`AutoProxy`。OK全部完成，可以畅游网络了。
 
 ## MacOS
 
