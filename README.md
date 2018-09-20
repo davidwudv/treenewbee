@@ -15,22 +15,35 @@
 
 ## IOS
 
-1. 在电脑上安装[PP助手](https://pro.25pp.com/)
-2. 手机连接电脑并打开PP助手，可能会出现以下提示，直接点右上角`X`关掉即可，不需要点一键安装。
-![](/images/1.png)
+1. 在App store下载ShadowRocket
+![](/images/IMG_0042.png)
 
-3. 点击右上方`找应用`，然后搜索**shadowrocket**，点击安装
-![](/images/2.png)
+2. 添加相应配置
+![](/images/IMG_0041.jpg)
 
-4. 安装完成后在手机打开`shadowrocket`，点击右上角的`+`号，输入相关信息。
-
-5. 如图选择算法和混淆协议
-![](/images/3.png)
-![](/images/4.png)
-
-6. 完成之后点击首页的按钮即可使用啦
-![](/images/5.png)
+3. 完成之后点击首页中间的按钮即可使用啦
+![](/images/IMG_0043.png)
 
 ## Windows
 
 待补充
+
+## MacOS
+
+1. 此处下载[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)的最新版（选择latest release那份）
+
+![](/images/3.png)
+
+2. 直接打开解压安装，右上角会出现一个`纸飞机`的图标
+
+![](/images/4.png)
+
+3. 点击它，选择服务器设置
+
+![](/images/5.png)
+
+4. 跟手机一样，配上IP地址、端口、加密算法、密码
+
+![](/images/6.png)
+
+5. 如上面第三步的截图一样，选择配置好的服务器（打勾）。然后选择`PAC自动模式`就OK了，直接打开浏览器就能畅游网络。如果还遇到访问不了的网站，就切换到`全局模式`再试试。
