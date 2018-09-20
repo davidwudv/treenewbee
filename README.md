@@ -57,7 +57,7 @@
 
 ![](/images/13.png)
 
-11. 点击左下角`AutoProxy`，按照下图填写配置，Rule List URL为：`https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`
+11. 点击左下角`AutoProxy`，按照下图填写配置，Rule List URL为：`https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`，填写好后点击`Download Profile Now`
 
 ![](/images/12.png)
 
