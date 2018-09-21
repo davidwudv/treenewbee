@@ -3,6 +3,7 @@
 * [Android](#Android)
 * [IOS](#IOS)
 * [Windows](#Windows)
+* [MacOS](#MacOS)
 
 ## Android
 
